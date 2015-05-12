@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>730BCAF1-AFB9-466B-8BB5-EA1E3E540F4B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD6897680F0A12A1C20C6368967B9F304AB8FEBF</key>
+		<string>https://github.com/btn0513/EBoard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/EBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD6897680F0A12A1C20C6368967B9F304AB8FEBF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/btn0513/EBoard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD6897680F0A12A1C20C6368967B9F304AB8FEBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD6897680F0A12A1C20C6368967B9F304AB8FEBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EBoard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
